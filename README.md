@@ -47,3 +47,7 @@ Use [Issues](https://github.com/kevinschaich/py-imessage-shortcuts/issues). PRs 
 ### License
 
 [MIT License](https://github.com/kevinschaich/py-imessage-shortcuts/blob/master/LICENSE).
+
+### Credits
+
+Inspired by [`py-iMessage`](https://github.com/Rolstenhouse/py-iMessage).

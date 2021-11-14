@@ -3,7 +3,7 @@
 <div align="center">
 
 <br>
-<img src="img/logo.png" width="200">
+<img src="https://raw.githubusercontent.com/kevinschaich/py-imessage-shortcuts/master/img/logo.png" width="200">
 <br>
 <br>
 <br>

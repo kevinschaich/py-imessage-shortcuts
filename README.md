@@ -11,10 +11,9 @@
 Send iMessages using Python through the Shortcuts app.
 
 <br>
+</div>
 
 Requires macOS Monterey (macOS 12) or later. Compatible with Apple Silicon including M1, M1 Pro, & M1 Max.
-
-</div>
 
 ---
 

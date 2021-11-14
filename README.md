@@ -1,8 +1,18 @@
 # `py-imessage-shortcuts`
 
+<div align="center">
+
+<br>
+<img src="img/logo.png" width="200">
+<br>
+
 Send iMessages using Python through the Shortcuts app.
 
 Requires macOS Monterey (macOS 12) or later. Compatible with Apple Silicon including M1, M1 Pro, & M1 Max.
+
+</div>
+
+---
 
 ### Installation
 
@@ -21,6 +31,11 @@ import imessage
 
 imessage.send(['+1 555-555-5555'], 'Hello World!')
 ```
+
+### FAQs
+
+* Can I use this on Windows/Linux?
+    * Nope!
 
 ### Bugs
 
